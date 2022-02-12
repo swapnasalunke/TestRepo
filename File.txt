@@ -4,5 +4,7 @@ change- on local master to test push
 
 change - on remote master to test pull
 
-
 change - on remote master to test rebase conflict pull
+
+Change on local master for cre1 to check pull rebase conflict
+
